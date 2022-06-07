@@ -10,4 +10,15 @@ This repository contains the online shopping e-commerce website for farmers/gard
  buy farming required all products some of the organic health benefited home decors and they can also view the product reviews and write their own reviews. 
  We also help them to learn from our videos and provide them organic products and make users more interacted to our website.
  
+## Main Modules 
+ ** Admin
+ ** User
+ ** Seeds
+ ** Tools
+ ** Vegetables 
+ ** Fruits
+ ** Soils
+ ** Home Decors
+ ** Organic Manners
+ 
 
