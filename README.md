@@ -20,5 +20,6 @@ This repository contains the online shopping e-commerce website for farmers/gard
  * Soils
  * Home Decors
  * Organic Manners
+ * Payments
  
 
