@@ -11,7 +11,7 @@ This repository contains the online shopping e-commerce website for farmers/gard
  We also help them to learn from our videos and provide them organic products and make users more interacted to our website.
  
 ## Main Modules 
- ** Admin
+ * Admin
  ** User
  ** Seeds
  ** Tools
