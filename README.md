@@ -12,13 +12,13 @@ This repository contains the online shopping e-commerce website for farmers/gard
  
 ## Main Modules 
  * Admin
- ** User
- ** Seeds
- ** Tools
- ** Vegetables 
- ** Fruits
- ** Soils
- ** Home Decors
- ** Organic Manners
+ * User
+ * Seeds
+ * Tools
+ * Vegetables 
+ * Fruits
+ * Soils
+ * Home Decors
+ * Organic Manners
  
 
